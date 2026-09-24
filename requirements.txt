@@ -1,0 +1,8 @@
+metadrive-simulator
+torch
+numpy
+pandas
+matplotlib
+imageio
+imageio-ffmpeg
+pillow

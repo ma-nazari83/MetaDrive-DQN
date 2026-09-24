@@ -1,0 +1,192 @@
+{
+  "summary": {
+    "episodes": 20,
+    "success_rate": 0.1,
+    "crash_rate": 0.35,
+    "out_of_road_rate": 0.6,
+    "mean_reward": 119.02,
+    "mean_speed_kmh": 12.46
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "steps": 98,
+      "reward": 128.45,
+      "avg_speed_kmh": 13.52,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 2,
+      "steps": 150,
+      "reward": 254.81,
+      "avg_speed_kmh": 16.76,
+      "success": false,
+      "crash": true,
+      "out_of_road": false
+    },
+    {
+      "episode": 3,
+      "steps": 71,
+      "reward": 66.75,
+      "avg_speed_kmh": 10.17,
+      "success": false,
+      "crash": true,
+      "out_of_road": false
+    },
+    {
+      "episode": 4,
+      "steps": 152,
+      "reward": 243.5,
+      "avg_speed_kmh": 16.45,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 5,
+      "steps": 67,
+      "reward": 60.88,
+      "avg_speed_kmh": 10.09,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 6,
+      "steps": 71,
+      "reward": 63.92,
+      "avg_speed_kmh": 10.35,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 7,
+      "steps": 93,
+      "reward": 73.39,
+      "avg_speed_kmh": 12.9,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 8,
+      "steps": 89,
+      "reward": 110.83,
+      "avg_speed_kmh": 12.82,
+      "success": false,
+      "crash": true,
+      "out_of_road": false
+    },
+    {
+      "episode": 9,
+      "steps": 90,
+      "reward": 68.08,
+      "avg_speed_kmh": 13.42,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 10,
+      "steps": 94,
+      "reward": 73.84,
+      "avg_speed_kmh": 12.81,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 11,
+      "steps": 66,
+      "reward": 54.29,
+      "avg_speed_kmh": 9.24,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 12,
+      "steps": 67,
+      "reward": 62.54,
+      "avg_speed_kmh": 10.24,
+      "success": false,
+      "crash": true,
+      "out_of_road": false
+    },
+    {
+      "episode": 13,
+      "steps": 64,
+      "reward": 55.55,
+      "avg_speed_kmh": 9.64,
+      "success": false,
+      "crash": true,
+      "out_of_road": true
+    },
+    {
+      "episode": 14,
+      "steps": 96,
+      "reward": 121.5,
+      "avg_speed_kmh": 12.94,
+      "success": false,
+      "crash": true,
+      "out_of_road": false
+    },
+    {
+      "episode": 15,
+      "steps": 102,
+      "reward": 144.71,
+      "avg_speed_kmh": 14.35,
+      "success": false,
+      "crash": true,
+      "out_of_road": false
+    },
+    {
+      "episode": 16,
+      "steps": 66,
+      "reward": 59.56,
+      "avg_speed_kmh": 10.03,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 17,
+      "steps": 148,
+      "reward": 263.72,
+      "avg_speed_kmh": 16.67,
+      "success": true,
+      "crash": false,
+      "out_of_road": false
+    },
+    {
+      "episode": 18,
+      "steps": 61,
+      "reward": 48.55,
+      "avg_speed_kmh": 8.99,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 19,
+      "steps": 68,
+      "reward": 60.54,
+      "avg_speed_kmh": 9.76,
+      "success": false,
+      "crash": false,
+      "out_of_road": true
+    },
+    {
+      "episode": 20,
+      "steps": 190,
+      "reward": 365.02,
+      "avg_speed_kmh": 18.09,
+      "success": true,
+      "crash": false,
+      "out_of_road": false
+    }
+  ]
+}
