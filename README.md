@@ -27,6 +27,7 @@
 -->
 
 The agent receives MetaDrive's vector observation, chooses from six discrete driving actions, and learns a driving policy using experience replay, epsilon-greedy exploration, a target network, and a custom reward function focused on lane keeping, safe speed, smooth control, and reaching the destination.
+Note: This project is far from being perfect. It has some major issues
 
 ## Table of Contents
 
