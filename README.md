@@ -95,12 +95,12 @@ During training, the selected discrete action is converted into the continuous c
 
 | Metric               | Value |
 | -------------------- | ----- |
-| Episodes evaluated   | _TBD_ |
-| Success rate         | _TBD_ |
-| Crash rate           | _TBD_ |
-| Out-of-road rate     | _TBD_ |
-| Mean episode reward  | _TBD_ |
-| Mean speed (km/h)    | _TBD_ |
+| Episodes evaluated   | 20 |
+| Success rate         | 0.1 |
+| Crash rate           | 0.35 |
+| Out-of-road rate     | 0.6 |
+| Mean episode reward  | 119.02 |
+| Mean speed (km/h)    | 12.46 |
 
 ### Training curves
 
