@@ -48,7 +48,6 @@ racing-car/
 └── README.md
 ```
 
-For a public GitHub repository, generated folders such as `__pycache__/` should be excluded with `.gitignore`.
 
 ## DQN Architecture
 
@@ -267,16 +266,7 @@ Future versions of the project could include:
 - reward-function ablation experiments, and
 - a demonstration GIF or video in this README.
 
-## Repository Notes
 
-Before publishing the project, it is recommended to:
-
-1. remove `__pycache__/`,
-2. add a `.gitignore`,
-3. clean unused imports and commented-out legacy code,
-4. remove the machine-specific `prefix` from `environment.yaml`,
-5. keep the DQN architecture defined only in `model.py`, and
-6. clean or rename `test.py` so evaluation runs directly from the shared model implementation.
 
 ## About
 
